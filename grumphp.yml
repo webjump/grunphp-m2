@@ -18,7 +18,7 @@ parameters:
         - exit;
 
     phpunit:
-      config_file: dev/tests/unit/phpunit.xml
+      config_file: dev/tests/unit/phpunit.xml.dist
       testsuite: Magento_Unit_Tests_App_Code
       group: []
       always_execute: true
