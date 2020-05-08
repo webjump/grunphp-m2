@@ -1,4 +1,4 @@
-# GrunPHP for Magento 2
+# GrumPHP for Magento 2
 
 ## How to use it?
 
